@@ -1,28 +1,44 @@
 #mango {
     width: 200px;
-    height:200px
+    height: 200px
 }
 
 
 #banana {
     width: 200px;
-    height:200px
+    height: 200px
 }
-#waterMelons{
- width: 200px;
-    height:200px    
+
+#waterMelons {
+    width: 200px;
+    height: 200px;
 }
 
 #onion {
     width: 200px;
-    height:200px
+    height: 200px
 }
 
 #tomato {
     width: 200px;
-    height:200px
+    height: 200px
 }
+
 #kales {
     width: 200px;
-    height:200px
+    height: 200px;
+}
+
+#order {
+    padding: 12px 16px;
+    border: none;
+    background-color: rgb(211, 148, 65);
+    border-radius: 5px;
+    color: black;
+    cursor: pointer;
+    width: 250px;
+    height: 60px;
+    font-size: 23px;
+    margin-left: 37%;
+    margin-bottom: 50px;
 }
